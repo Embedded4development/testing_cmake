@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o  -o Stl_test  -L../lib -rdynamic -lcairo -Wl,-rpath,../lib 

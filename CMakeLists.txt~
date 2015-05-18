@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.6)
+project(TUTORIAL)
+#enable_testing()
+add_executable(Tutorial test.c)
+#add_test(Tuto Tutorial)
