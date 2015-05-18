@@ -1,9 +1,24 @@
 #include<iostream>
-#include <cairo.h>
+#include<pthread.h>
+//#include <cairo.h>
+
 using namespace std;
 
+void* fun(void* arg)
+{
+	
+cout << "Inside Functions" << endl;
+
+}
 int main()
 {
+	pthread_t pid;
+	pthread_create(&pid,NULL,&fun,NULL);
+	
+	pthread_join(pid,NULL);
+	cout << "Hello World" << endl;
+	return 0;
+	/*
 	cairo_surface_t *surface;
 	cairo_t *cr;
 
@@ -23,5 +38,5 @@ int main()
 
 	cairo_destroy(cr);
 	cairo_surface_destroy(surface);
-
+*/
 }

@@ -4,3 +4,4 @@ rm cmake_install.cmake
 rm CTestTestfile.cmake
 rm Makefile
 rm Stl_test
+rm -R CMakeFiles

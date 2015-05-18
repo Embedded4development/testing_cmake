@@ -6,23 +6,9 @@
 
 #IncludeRegexTransform: 
 
-../src/../deps/include/cairo/cairo-deprecated.h
-
-../src/../deps/include/cairo/cairo-features.h
-
-../src/../deps/include/cairo/cairo-version.h
-
-../src/../deps/include/cairo/cairo.h
-cairo-version.h
-../src/../deps/include/cairo/cairo-version.h
-cairo-features.h
-../src/../deps/include/cairo/cairo-features.h
-cairo-deprecated.h
-../src/../deps/include/cairo/cairo-deprecated.h
-
 /home/radix/Int/cmake_special/src/main.cpp
 iostream
 -
-cairo.h
+pthread.h
 -
 

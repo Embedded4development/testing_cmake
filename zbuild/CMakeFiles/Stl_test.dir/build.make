@@ -56,15 +56,15 @@ CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o: CMakeFiles/
 CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o: /home/radix/Int/cmake_special/src/main.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/radix/Int/cmake_special/zbuild/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o -c /home/radix/Int/cmake_special/src/main.cpp
+	/home/radix/Ripdraw/build/buildroot/output/host/usr/bin/arm-linux-gnueabihf-g++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o -c /home/radix/Int/cmake_special/src/main.cpp
 
 CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/radix/Int/cmake_special/src/main.cpp > CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.i
+	/home/radix/Ripdraw/build/buildroot/output/host/usr/bin/arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/radix/Int/cmake_special/src/main.cpp > CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.i
 
 CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/radix/Int/cmake_special/src/main.cpp -o CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.s
+	/home/radix/Ripdraw/build/buildroot/output/host/usr/bin/arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/radix/Int/cmake_special/src/main.cpp -o CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.s
 
 CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o.requires:
 .PHONY : CMakeFiles/Stl_test.dir/home/radix/Int/cmake_special/src/main.cpp.o.requires

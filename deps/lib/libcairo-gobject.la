@@ -17,7 +17,7 @@ old_library='libcairo-gobject.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' /home/radix/Int/cmake_special/lib/libcairo.la /usr/lib/x86_64-linux-gnu/libfreetype.la -lpthread -lpixman-1 -lfontconfig -lpng12 -lxcb-shm -lxcb-render -lxcb -lXrender -lX11 -lXext -lz -lgobject-2.0 -lglib-2.0 -lrt -lm'
+dependency_libs=' /home/radix/Int/cmake_special/deps/lib/libcairo.la /usr/lib/x86_64-linux-gnu/libfreetype.la -lpthread -lpixman-1 -lfontconfig -lpng12 -lxcb-shm -lxcb-render -lxcb -lXrender -lX11 -lXext -lz -lgobject-2.0 -lglib-2.0 -lrt -lm'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/radix/Int/cmake_special/lib'
+libdir='/home/radix/Int/cmake_special/deps/lib'

@@ -1,4 +1,4 @@
-prefix=/home/radix/Int/cmake_special
+prefix=/home/radix/Int/cmake_special/deps
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
