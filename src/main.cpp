@@ -1,5 +1,5 @@
 #include<iostream>
-#include <cairo/cairo.h>
+#include <cairo.h>
 using namespace std;
 
 int main()
